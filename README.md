@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iNivekJM
 - 👀 I’m interested in learn new languages
-- 🌱 I’m currently learning NodeJS and Angular
+- 🌱 I’m currently learning Python and Angular
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
